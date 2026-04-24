@@ -40,10 +40,9 @@ My goal is to help students become **certification-ready, job-ready, college rea
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Website: [Add your website URL]
-- Email: [Add your preferred professional email]
-
+- LinkedIn: https://www.linkedin.com/in/jamestrowerspeaks/
+- Website: https://www.lansecuresolutions.com
+- Email: info@lansecuresolutions.com
 ---
 
 > “Building the next generation of tech talent through real infrastructure, real labs, and real opportunity.”
